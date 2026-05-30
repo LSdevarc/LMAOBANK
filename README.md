@@ -14,7 +14,7 @@ The first automated revenue share vault on Solana.
 
 ### Diamond Hands System
 
-Hold for 1 full hour without selling and receive bonus $LMAO on top of your regular distributions.
+Hold for 1 full hour without selling and receive bonus $CUM on top of your regular distributions.
 
 - Paper hands get nothing extra
 - Loyalty pays
