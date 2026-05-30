@@ -1,3 +1,5 @@
+'use client'
+
 export default function DiamondHands() {
   return (
     <section className="py-20 px-4">
@@ -9,7 +11,8 @@ export default function DiamondHands() {
           
           <div className="space-y-6 mb-8">
             <div className="border-l-4 border-accent pl-6">
-              <h3 className="text-2xl font-bold mb-2">Hold for 1 Full Hour</n              <p className="text-gray-400">
+              <h3 className="text-2xl font-bold mb-2">Hold for 1 Full Hour</h3>
+              <p className="text-gray-400">
                 Without selling and receive bonus $CUM on top of your regular distributions
               </p>
             </div>

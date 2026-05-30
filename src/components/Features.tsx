@@ -1,3 +1,5 @@
+'use client'
+
 export default function Features() {
   const features = [
     {
@@ -11,7 +13,7 @@ export default function Features() {
       description: 'Your tokens are always yours. No lock-up periods.'
     },
     {
-      icon: '🪙',
+      icon: '🤖',
       title: 'No Claim Buttons',
       description: 'Rewards are distributed automatically to your wallet.'
     },
